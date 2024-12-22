@@ -1,0 +1,57 @@
+/* Home-Start */
+
+
+/* navbar-start */
+.navbar-bg{
+    background-color: #212529;
+}
+
+.navbar-ul-colar{
+    color: rgb(27, 187, 187) !important;
+}
+
+
+/* navbar-end */
+
+
+/* <!-- Header-start --> */
+
+
+/* <!-- Header-End --> */
+
+
+/* Section-Start  */
+.icons{
+    width: 50px;
+    height: 50px;
+    font-size: 2rem;
+    border-radius: 10px;
+    background-color:  #0962e7;
+    color: white;
+    text-align: center;
+    justify-content: center;
+}
+
+
+
+/* Section-End  */
+
+/* <!-- article-Start  --> */
+
+.article-bg{
+    background-color: #f8f9fa;
+
+}
+/* <!-- article-End  --> */
+
+
+
+
+/* About-Start */
+
+.section-bg{
+   background-color: #f8f9fa;
+}
+
+
+/* About-End */
